@@ -1,2 +1,1 @@
 some interesting notes about git
-some more changes
